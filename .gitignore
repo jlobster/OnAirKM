@@ -2,3 +2,9 @@
 dist
 build
 .DS_Store
+drafts
+# Mac app compilation
+Makefile
+onair.icns
+setup.py
+.onair.ini
